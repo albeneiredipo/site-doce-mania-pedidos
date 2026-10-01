@@ -1,0 +1,8 @@
+{
+  "name": "Doce Mania Atacado | Salgadinhos em Caxias do Sul",
+  "description": "O principal fornecedor Premium de salgadinhos Elma Chips, Pererekas e Toddynho no atacado em Caxias do Sul. Líder em distribuição para revendedores.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}

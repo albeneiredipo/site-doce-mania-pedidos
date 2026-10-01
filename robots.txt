@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://doce-mania.com.br/sitemap.xml
